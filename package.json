@@ -1,0 +1,16 @@
+{
+  "name": "ticket-bot",
+  "version": "1.0.0",
+  "description": "Discord ticket system with Supabase",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "@supabase/supabase-js": "^2.39.0"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
